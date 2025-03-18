@@ -1,0 +1,9 @@
+---
+description: Always find the latest version of a package before adding to pubspec
+globs: *.yaml, *.json, *.text
+alwaysApply: false
+---
+
+# You should always find the latest version of a package before adding it to any package.jsons, requirements.txts or any other dependency files. 
+
+Use the brave MCP tool or your own search capability to check the latest version of a package every time before adding it to package.jsons, requirements.txts or any other dependency files. 

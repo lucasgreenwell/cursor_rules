@@ -1,0 +1,17 @@
+---
+description: Document every change that you make to the codebase and read docs before you make changes
+globs: *
+---
+# Read the docs before changing things
+Before you make any changes to a file, you should read both the file you intend to change and the .md file associated with it. The naming convention should be <code_file.file_extension>_docs.md and the file should always be in the same directory as the code file. If there is no markdown file for the file, you should create one meticulously documenting all of the functionality of the code file before making any further changes. 
+
+
+
+# Document All Changes After making them
+After every change to the codebase, you should be adding documentation in a markdown file referencing the file that you have updated. The naming convention should be <code_file.file_extension>_docs.md. If there is no markdown file for the file, you should create one meticulously documenting all of the functionality of the code file. If there is one before you begin, you should edit it to account for your changes. You should never add a "changes" or "new functionality" section to the markdown file. Instead you should incorporate the changes you've made into the existing documentation. When new sections are needed, they should be placed in the document in the order that makes the most sense. Generally, we should be ordering things in the order:
+
+1. database operations 
+2. internal API calls
+3. External API calls 
+4. UI functionality
+

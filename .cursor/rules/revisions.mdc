@@ -1,0 +1,7 @@
+---
+description: Dealing with error messages or revisions from the user
+globs: 
+---
+When the user responds to a feature that you've implemented according to [checklists.mdc](mdc:.cursor/rules/checklists.mdc) and documented according to [docs.mdc](mdc:.cursor/rules/docs.mdc) with a set of error logs, you should begin by analyzing the logs for at least a paragraph and trying to identify the cause of the error. After you've identified the issue, you should add steps to resolve the issue to your checklist before proceeding and continue looping through the process identified in [checklists.mdc](mdc:.cursor/rules/checklists.mdc) and [docs.mdc](mdc:.cursor/rules/docs.mdc). 
+
+When the user responds to a feature that you've implemented according to [checklists.mdc](mdc:.cursor/rules/checklists.mdc) and documented according to [docs.mdc](mdc:.cursor/rules/docs.mdc) with a request for changes, you should begin by analyzing the request for at least a paragraph and trying to identify the best way to approach the request. After you've identified the best path forward, you should add steps to implement your resolution to your checklist before proceeding and continue looping through the process identified in [checklists.mdc](mdc:.cursor/rules/checklists.mdc) and [docs.mdc](mdc:.cursor/rules/docs.mdc). 

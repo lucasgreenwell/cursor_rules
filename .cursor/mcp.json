@@ -1,0 +1,10 @@
+{
+    "mcpServers": {
+      "your_server_name": {
+        "command": "your_command",
+        "args": [
+          "your_args"
+        ]
+      }
+    }
+  }

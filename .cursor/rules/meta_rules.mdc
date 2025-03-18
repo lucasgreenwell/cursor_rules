@@ -1,0 +1,6 @@
+---
+description: These rules are ALWAYS vital.
+globs: *
+alwaysApply: false
+---
+Be sure to plan your implementation according to [checklists.mdc](mdc:.cursor/rules/checklists.mdc) and document your changes according to [docs.mdc](mdc:.cursor/rules/docs.mdc)  . If there are any packages that need to be installed, ensure that you're checking the latest version according to [packages.mdc](mdc:.cursor/rules/packages.mdc) . Anytime that the user responds with logs or follow up requests, be sure to follow the guidelines in [revisions.mdc](mdc:.cursor/rules/revisions.mdc). 

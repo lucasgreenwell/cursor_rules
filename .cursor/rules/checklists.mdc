@@ -1,0 +1,13 @@
+---
+description: When the user gives a detailed feature overview, you should plan out all the tasks necessary to complete this task in a notepad.
+globs: *
+alwaysApply: false
+---
+# Plan out your implementation
+When the user gives a detailed feature for you to implement, you should begin by creating a detailed implementation plan in a md file in ./plans. You should be meticulous and account for all the steps that the feature will require. Before each step there should be an empty checkbox. 
+
+# Return to the plan
+After each step of the plan is implemented, you should return to the plan file and mark it off by placing an x in the checkbox. 
+
+# Next Action
+Unless indicated otherwise by the user, you should return to the implementation plan after marking off an item, find the next most logical step of the implementation plan and begin implementing it. Continue this loop until the entire feature is completed and documented according to [docs.mdc](mdc:.cursor/rules/docs.mdc). 
