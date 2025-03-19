@@ -14,4 +14,4 @@ After every change to the codebase, you should be adding documentation in a mark
 2. internal API calls
 3. External API calls 
 4. UI functionality
-
+5. associated tests
